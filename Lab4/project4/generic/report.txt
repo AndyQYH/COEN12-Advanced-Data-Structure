@@ -1,0 +1,28 @@
+unique
+------
+                               unsorted  sorted  hashing(generic)
+GreenEggsAndHam.txt             0.0123s  0.012s  0.038s
+Macbeth.txt                     0.156s   0.073s  0.045s
+Genesis.txt                     0.461s   0.598s  0.048s
+HoundOfTheBaskervilles.txt      1.29s    0.878s  0.061s
+TheWarOfTheWorlds.txt           0.86s    0.789s  0.065s
+TreasureIsland.txt              1.03s    1.644s  0.062s
+TheSecretGarden.txt             1.45s    1.279s  0.069s
+TwentyThousandLeagues.txt       1.829s   1.498s  0.085s
+TheCountOfMonteCristo.txt       7.4s     10.157s 0.245s
+Bible.txt                       16.84s   17.775s 0.325s
+
+
+parity
+------
+                               unsorted  sorted   hashing
+GreenEggsAndHam.txt             0.012s   0.0113s  0.031s
+Macbeth.txt                     0.422s   0.161s   0.043s
+Genesis.txt                     0.539s   0.197s   0.062s
+HoundOfTheBaskervilles.txt      2.225s   0.76s    0.071s
+TheWarOfTheWorlds.txt           2.48s    0.56s    0.079s
+TreasureIsland.txt              2.495s   1.06s    0.085s
+TheSecretGarden.txt             2.323s   0.921s   0.079s
+TwentyThousandLeagues.txt       6.046s   1.59s    0.106s
+TheCountOfMonteCristo.txt       55.78s   8.86s    0.422s
+Bible.txt                       63.65s   9.76s    0.578s
